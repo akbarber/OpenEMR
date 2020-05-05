@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2bf636a957744834bf0269a81cb08184)](https://app.codacy.com/manual/akbarber/OpenEMR?utm_source=github.com&utm_medium=referral&utm_content=akbarber/OpenEMR&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/openemr/openemr.svg?branch=master)](https://travis-ci.org/openemr/openemr)
 [![Backers on Open Collective](https://opencollective.com/openemr/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/openemr/sponsors/badge.svg)](#sponsors)
 
