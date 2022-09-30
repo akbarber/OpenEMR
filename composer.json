@@ -17,7 +17,7 @@
         "doctrine/common": "2.12.0",
         "doctrine/couchdb": "1.0-beta4",
         "doctrine/orm": "2.7.1",
-        "dompdf/dompdf": "0.8.4",
+        "dompdf/dompdf": "2.0.1",
         "ezyang/htmlpurifier": "4.12.0",
         "guzzlehttp/guzzle": "6.5.2",
         "kamermans/guzzle-oauth2-subscriber": "1.0.6",
